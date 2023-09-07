@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-print(%d,"with proper grammar, but the outcome is a piece of art,")
-return(0)
+print("with proper grammar, but the outcome is a piece of art,\n")
+	return(0)
 }
 
